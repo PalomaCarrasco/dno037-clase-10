@@ -94,15 +94,11 @@ header div p{
     }     
 }
 
-/* para todas las páginas que no son portada */
-
 main{
     width: 100%;
     padding-top:10vh;
     min-height: 70vh;    
 }
-
-/* para las páginas de locaciones y ganancias */
 
 main div#mapa{
     margin:1%;
