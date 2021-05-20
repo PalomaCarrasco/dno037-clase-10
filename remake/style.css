@@ -105,3 +105,6 @@ main div#mapa{
     width:98%;
     height:60vh;
 }
+main canvas#grafico{
+    background:#111;
+}
